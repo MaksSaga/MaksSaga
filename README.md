@@ -1,6 +1,6 @@
 ## My statistical data
 
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+<div style="background-color: #000000; padding: 10px; border-radius: 5px;">
   <h3>CodeWars</h3>
   <a href="https://www.codewars.com/users/MaksSaga">
     <img src="https://www.codewars.com/users/MaksSaga/badges/large" alt="CodeWars">
