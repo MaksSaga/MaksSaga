@@ -1,34 +1,16 @@
-<div align="left">
-  <img width="auto" src="https://cdnb.artstation.com/p/assets/images/images/070/665/785/original/gio-rosales-sample2.gif"  />
-</div>
-
-Hi 👋
-=======================================================================================================================================
-
-Frontend React Developer
+Hey There! 👋
 ------------------------
+<b>I'm MSaga</b> - I'm a frontend developer!
+
+<div align="left">
+  <img width="780" height="auto" src="https://cdnb.artstation.com/p/assets/images/images/070/665/785/original/gio-rosales-sample2.gif"  />
+</div>
 
 ### 🛠 Skills
 
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webpack,vite,gitlab,github" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,postgresql,prisma,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,vite,react,redux,nestjs,postgresql,prisma,mongodb,docker" />
   </a>
 </p>
 
