@@ -3,7 +3,7 @@ Hey There! 👋
 <b>I'm MSaga</b> - I'm a frontend developer!
 
 <div align="left">
-  <img width="780" height="auto" src="https://cdnb.artstation.com/p/assets/images/images/070/665/785/original/gio-rosales-sample2.gif"  />
+  <img width="780" height="auto" src="https://cdna.artstation.com/p/assets/images/images/034/936/130/original/egor-ilyin-s1.gif?1613646676"  />
 </div>
 
 ### 🛠 Skills
