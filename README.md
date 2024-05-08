@@ -2,8 +2,11 @@ Hey There! 👋
 ------------------------
 <b>I'm MSaga</b> - I'm a frontend developer!
 
-<div align="left">
+<!--<div align="left">
   <img width="780" height="auto" src="https://cdnb.artstation.com/p/assets/images/images/042/991/289/original/romain-courtois-periurbancrepuscule-gif-x4.gif?1635985537"  />
+</div> -->
+<div align="left">
+  <img width="780" height="auto" src="https://cdna.artstation.com/p/assets/images/images/071/087/584/original/fatih-emir-bg-design.gif?1704403912"  />
 </div>
 
 ### 🛠 Skills
