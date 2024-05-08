@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img width="auto" src="https://cdnb.artstation.com/p/assets/images/images/070/665/785/original/gio-rosales-sample2.gif"  />
 </div>
 
