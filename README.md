@@ -1,5 +1,5 @@
 # Hey There! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=3000&color=EBC891&width=765&lines=I'm+Maksym+Sahaidak+-+NEXT.js+%7C+React+Front-End+Developer!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=3000&color=EBC891&width=765&lines=NEXT.js+%7C+React+Front-End+Developer..." alt="Typing SVG" />
 
 <!--<div align="left">
   <img width="780" height="auto" src="https://cdnb.artstation.com/p/assets/images/images/042/991/289/original/romain-courtois-periurbancrepuscule-gif-x4.gif?1635985537"  />
